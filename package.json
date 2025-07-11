@@ -1,0 +1,47 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "This is Namsate React ",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sanjana8kesharwani/Namaste_React.git"
+  },
+  "keywords": [],
+  "author": "Sanjana Kesharwani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sanjana8kesharwani/Namaste_React/issues"
+  },
+  "homepage": "https://github.com/Sanjana8kesharwani/Namaste_React#readme",
+  "devDependencies": {
+    "@babel/core": "^7.28.0",
+    "@babel/preset-env": "^7.28.0",
+    "@babel/preset-react": "^7.27.1",
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.3.0",
+    "autoprefixer": "^10.4.21",
+    "babel-jest": "^30.0.4",
+    "jest": "^30.0.4",
+    "jest-environment-jsdom": "^30.0.4",
+    "parcel": "^2.15.2",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.11"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.8.2",
+    "@tailwindcss/postcss": "^4.1.11",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-redux": "^9.2.0",
+    "react-router-dom": "^6.30.1"
+  },
+  "browserslist": [
+    "last 2 chrome version",
+    "last 2 Firefox version"
+  ]
+}
