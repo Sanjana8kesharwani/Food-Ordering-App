@@ -34,7 +34,7 @@ A Frontend Food Delivery App built using ReactJS and live Swiggy API.
 git clone https://github.com/Sanjana8kesharwani/Food-Ordering-App.git
 
 
-2. **Install dependencies**
+2. Install dependencies
 
 npm install
 
