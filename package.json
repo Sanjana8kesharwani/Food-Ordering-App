@@ -1,11 +1,14 @@
 {
   "name": "namaste_react",
   "version": "1.0.0",
-  "description": "This is Namsate React ",
+  "description": "This is Namaste React",
+  "homepage": "https://Sanjana8kesharwani.github.io/Namaste_React",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
-    "test": "jest"
+    "test": "jest",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
@@ -17,7 +20,6 @@
   "bugs": {
     "url": "https://github.com/Sanjana8kesharwani/Namaste_React/issues"
   },
-  "homepage": "https://github.com/Sanjana8kesharwani/Namaste_React#readme",
   "devDependencies": {
     "@babel/core": "^7.28.0",
     "@babel/preset-env": "^7.28.0",
@@ -26,6 +28,7 @@
     "@testing-library/react": "^16.3.0",
     "autoprefixer": "^10.4.21",
     "babel-jest": "^30.0.4",
+    "gh-pages": "^6.3.0",
     "jest": "^30.0.4",
     "jest-environment-jsdom": "^30.0.4",
     "parcel": "^2.15.2",

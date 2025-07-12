@@ -37,6 +37,7 @@ const Body = () => {
     }
   };
 
+
   useEffect(() => {
     fetchData();
   }, []);
