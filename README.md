@@ -43,18 +43,3 @@ npm start
 
 Make sure you've enabled CORS extension installed in your browser while fetching Swiggy Live API
 
-
-
-## 📸 Screenshots
-
-### 🏠 Home Page  
-![Home Page](https://github.com/Sanjana8kesharwani/Food-Ordering-App/blob/main/assets/Home.png)
-
-### 🔐 Login Page  
-![Login Page](https://github.com/Sanjana8kesharwani/Food-Ordering-App/blob/main/assets/Login.png)
-
-### 📋 Menu Page  
-![Menu Page](https://github.com/Sanjana8kesharwani/Food-Ordering-App/blob/main/assets/Menu.png)
-
-### 🛒 Grocery Page  
-![Grocery Page](https://github.com/Sanjana8kesharwani/Food-Ordering-App/blob/main/assets/Grocery.png)
