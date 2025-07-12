@@ -43,14 +43,24 @@ npm start
 
 Make sure you've enabled CORS extension installed in your browser while fetching Swiggy Live API
 
+
+
 ## 📸 Screenshots
 
+### 🏠 Home Page  
+![Home Page](./assets/home-page.png)
 
-### 🏠 Home Page
-![Home Page](./assets/home.png)
+### 🔐 Login Page  
+![Login Page](./assets/login-page.png)
 
-### 🔐 Login Page
-![Login Page](./assets/login.png)
+### 🛒 Cart Page  
+![Cart Page](./assets/cart-page.png)
 
-### 🛒 Cart Page
-![Cart Page](./assets/cart.png)
+### 🍽️ Restaurant Menu  
+![Restaurant Menu](./assets/restaurant-menu.png)
+
+### 🛍️ Grocery Page  
+![Grocery Page](./assets/grocery-page.png)
+
+### 🌐 Full App View  
+![Full App](./assets/full-app.png)
