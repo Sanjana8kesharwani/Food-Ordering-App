@@ -47,14 +47,14 @@ Make sure you've enabled CORS extension installed in your browser while fetching
 
 ## 📸 Screenshots
 
-### 🏠 Home Page
+### 🏠 Home Page  
 ![Home Page](./assets/Home.png)
 
-### 🔐 Login Page
+### 🔐 Login Page  
 ![Login Page](./assets/Login.png)
 
-### 📋 Menu Page
+### 📋 Menu Page  
 ![Menu Page](./assets/Menu.png)
 
-### 🛒 Grocery Page
+### 🛒 Grocery Page  
 ![Grocery Page](./assets/Grocery.png)
