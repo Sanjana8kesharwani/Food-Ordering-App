@@ -47,19 +47,14 @@ Make sure you've enabled CORS extension installed in your browser while fetching
 
 ## 📸 Screenshots
 
+### 🏠 Home Page
+![Home Page](./assets/Home.png)
 
-### 🏠 Home Page  
-![Home Page](https://github.com/Sanjana8kesharwani/Food-Ordering-App/blob/main/assets/Home.png?raw=true)
+### 🔐 Login Page
+![Login Page](./assets/Login.png)
 
-### 🍽️ Menu Page  
-![Menu Page](https://github.com/Sanjana8kesharwani/Food-Ordering-App/blob/main/assets/Menu.png?raw=true)
+### 📋 Menu Page
+![Menu Page](./assets/Menu.png)
 
-### 🔐 Login Page  
-![Login Page](https://github.com/Sanjana8kesharwani/Food-Ordering-App/blob/main/assets/Login.png?raw=true)
-
-### 🛒 Gerocery Page  
-![Gerocery Page](https://github.com/Sanjana8kesharwani/Food-Ordering-App/blob/main/assets/gerocery.png?raw=true)
-
-### 🛍️ Grocery Page (Full Page)  
-![Grocery Full Page](https://github.com/Sanjana8kesharwani/Food-Ordering-App/blob/main/assets/grocery-page.png?raw=true)
-
+### 🛒 Grocery Page
+![Grocery Page](./assets/Grocery.png)
